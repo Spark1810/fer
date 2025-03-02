@@ -1,4 +1,4 @@
 pandas
 streamlit
 Pillow
-scikit_learn
+scikit_learn==0.24.1
